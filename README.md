@@ -1,6 +1,9 @@
 #RMI Vigenère Cypher Breaker Application
 
-*******************************************
+Java application to implement a cryptanalytic distributed system for breaking Vigenère
+cyphers.
+
+Java rmi api and Apache Tomcat servlet used.
 
 ##RMI Package
 
